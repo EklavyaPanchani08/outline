@@ -1,9 +1,6 @@
 dist
 build
 node_modules/*
-.env
-.env.local
-.env.production
 .log
 .vscode/*
 npm-debug.log
@@ -14,3 +11,5 @@ data/*
 *.pem
 *.key
 *.cert
+config.bat
+node_modules
